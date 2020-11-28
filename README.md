@@ -1,6 +1,5 @@
 # Hello-world
-My first GitHub respository 
 
-Joyce here, I like Node.js and coffeescript(that's what i'made off)
+Joy here, I love building a website
 
-I've had tacos on the moon and find them far superior to Earth tacos 
+Build a unique website
