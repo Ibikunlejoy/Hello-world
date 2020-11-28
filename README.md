@@ -1,6 +1,5 @@
 # Hello-world
-
-Hi human
+My first GitHub respository 
 
 Joyce here, I like Node.js and coffeescript(that's what i'made off)
 
